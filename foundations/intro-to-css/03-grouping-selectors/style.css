@@ -1,0 +1,12 @@
+.submit{
+    font-size: 28px;
+    color: black;
+    font-family: 'Helvetica', 'Times New Roman' sans-serif;
+}
+.submit.click{
+    background-color: black;
+    color: white;
+}
+.submit.noclick{
+    background-color: yellow;
+}
