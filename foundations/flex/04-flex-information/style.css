@@ -25,14 +25,16 @@ img {
   background: #eee;
 }
 /*My Solution*/
+body{
+  text-align: center;
+}
 .title {
-    text-align: center;
     margin-bottom: 32px;
 }
 
 .item-container {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     gap: 52px;
 }
 
@@ -46,9 +48,5 @@ img {
 }
 
 .text {
-    /* flex-basis: 200px; */
-    /* display: flex; */
-    /* flex-wrap: wrap; */
-    /* justify-content: center; */
     text-align: center;
 }
